@@ -1,0 +1,14 @@
+C:\Users\User\lab\dotnet\gemini_github\bin\Debug\net8.0\gemini_github.exe
+C:\Users\User\lab\dotnet\gemini_github\bin\Debug\net8.0\gemini_github.deps.json
+C:\Users\User\lab\dotnet\gemini_github\bin\Debug\net8.0\gemini_github.runtimeconfig.json
+C:\Users\User\lab\dotnet\gemini_github\bin\Debug\net8.0\gemini_github.dll
+C:\Users\User\lab\dotnet\gemini_github\bin\Debug\net8.0\gemini_github.pdb
+C:\Users\User\lab\dotnet\gemini_github\obj\Debug\net8.0\gemini_github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\lab\dotnet\gemini_github\obj\Debug\net8.0\gemini_github.AssemblyInfoInputs.cache
+C:\Users\User\lab\dotnet\gemini_github\obj\Debug\net8.0\gemini_github.AssemblyInfo.cs
+C:\Users\User\lab\dotnet\gemini_github\obj\Debug\net8.0\gemini_github.csproj.CoreCompileInputs.cache
+C:\Users\User\lab\dotnet\gemini_github\obj\Debug\net8.0\gemini_github.dll
+C:\Users\User\lab\dotnet\gemini_github\obj\Debug\net8.0\refint\gemini_github.dll
+C:\Users\User\lab\dotnet\gemini_github\obj\Debug\net8.0\gemini_github.pdb
+C:\Users\User\lab\dotnet\gemini_github\obj\Debug\net8.0\gemini_github.genruntimeconfig.cache
+C:\Users\User\lab\dotnet\gemini_github\obj\Debug\net8.0\ref\gemini_github.dll
