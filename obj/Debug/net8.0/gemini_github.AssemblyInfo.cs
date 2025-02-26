@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gemini_github")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d84d055b1a9575ccd621f90a81639ac56012ccfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("gemini_github")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gemini_github")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
